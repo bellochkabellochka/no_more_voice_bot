@@ -1,0 +1,10 @@
+aiogram
+python-dotenv
+openai-whisper
+pydub
+ffmpeg-python
+torch
+transformers
+sentencepiece
+mistralai
+Pillow 
